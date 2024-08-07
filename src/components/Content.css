@@ -1,0 +1,45 @@
+.card {
+    width: 100%;
+    border-radius: 10px;
+    border: none!important;
+    position: relative;
+}
+.card-title p{
+   margin: 0;
+   padding: 0;
+}
+.heart{
+    position: absolute;
+    top: 8px;
+    left:250px;
+}
+.heart:hover{
+    color: red;
+}
+img {
+    width:300px;
+    height:270px;
+    background-size: cover;
+    border-radius: 9px;
+}
+
+.btn {
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+.btn h3 {
+    text-align: center;
+    
+}
+.show{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 135px;
+    height: 50px;
+}
+.show:hover{
+    background-color: rgb(69, 65, 65);
+}
+
